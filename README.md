@@ -1,2 +1,2 @@
 # Vawen
-Vawen is an Altmer Skyrim Specidal Edition follower
+Vawen is an Altmer Skyrim Special Edition follower
